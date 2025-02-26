@@ -1,0 +1,26 @@
+#btn1{
+    margin: 100px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    font-size: large;
+    border: 5px solid rgb(13, 96, 121);
+    border-radius: 8px;
+}
+
+#btn1:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    box-shadow: 0 0 10px rgba(13, 96, 121, 0.7); 
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color :black
+}
+
