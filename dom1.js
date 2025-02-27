@@ -9,8 +9,8 @@
 // let para = document.querySelector("p");
 // console.log(para.setAttribute("class","newClass"));
 
-// let div = document.querySelector("div")
-// div.style.backgroundColor ="green"
-// div.innerHTML="Hello"
-// div.style.visibility="hidden"
+let div = document.querySelector("div")
+div.style.backgroundColor ="green"
+div.innerHTML="Hello"
+div.style.visibility="hidden"
 
